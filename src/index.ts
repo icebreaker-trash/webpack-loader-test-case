@@ -1,6 +1,8 @@
 console.log("Hello World!");
 import "./a";
-import("./b");
+import("./b").then((res) => {
+  console.log(res);
+});
 // @ts-ignore
 import c from "babel-loader!file-loader?esModule=false&name=[contenthash].js!./file.ts";
 
