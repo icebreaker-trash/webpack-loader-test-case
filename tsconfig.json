@@ -3,9 +3,9 @@
     "allowSyntheticDefaultImports": true,
     "noImplicitAny": true,
     "module": "esnext",
-    "target": "es5",
+    "target": "es2015",
     "allowJs": true,
-    "lib": ["ES2015", "DOM"]
-  },
-  "files": ["src/index.ts"]
+    "lib": ["ES2015", "DOM"],
+    "moduleResolution": "Node"
+  }
 }

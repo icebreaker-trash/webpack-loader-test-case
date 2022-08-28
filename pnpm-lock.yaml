@@ -3,6 +3,7 @@ lockfileVersion: 5.4
 specifiers:
   '@babel/core': ^7.18.13
   '@babel/preset-env': ^7.18.10
+  '@types/node': ^18.7.13
   '@webpack-cli/generators': ^2.5.0
   autoprefixer: ^10.4.8
   babel-loader: ^8.2.5
@@ -30,6 +31,7 @@ dependencies:
 devDependencies:
   '@babel/core': 7.18.13
   '@babel/preset-env': 7.18.10_@babel+core@7.18.13
+  '@types/node': 18.7.13
   '@webpack-cli/generators': 2.5.0_rkubmdmd424gud2m3vbvlsf5iq
   autoprefixer: 10.4.8_postcss@8.4.16
   babel-loader: 8.2.5_tb6moc662p5idmcg3l5ipbhpta
