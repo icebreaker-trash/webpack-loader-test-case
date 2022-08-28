@@ -47,6 +47,8 @@
     "workbox-webpack-plugin": "^6.5.4"
   },
   "dependencies": {
-    "core-js": "3"
+    "core-js": "3",
+    "rxjs": "^7.5.6",
+    "snabbdom": "^3.5.1"
   }
 }
